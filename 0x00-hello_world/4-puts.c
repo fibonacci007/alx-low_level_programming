@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - print using put keyword
- * 
- * Return:  always (0)
+ * main -print using put keyword
+ *
+ * Return: always (0)
  */
 int main(void)
 {
