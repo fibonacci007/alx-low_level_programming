@@ -22,7 +22,7 @@ int main(void)
 	}
 	else if (lst == 0)
 	{
-		printf("The last digit of %d is %d and is equal to zero\n", n, lst);
+		printf("The last digit of %d is %d and is 0\n", n, lst);
 	}
 	else
 	{
